@@ -46,42 +46,42 @@ This tool is ideal for users who want a stable, clean, and reliable way to captu
 
 ## Frequently Asked Questions (FAQs)
 
-1. How does 123Movies Downloader work?
+### 1. How does 123Movies Downloader work?
 
 It detects the HLS video stream when playback begins, captures the stream segments, downloads them in chunks, and merges them into a single MP4 file directly in your browser.
 
-2. Does it reduce video quality?
+### 2. Does it reduce video quality?
 
 No. The extension keeps the exact same quality as the original stream. There is no re-encoding or compression applied.
 
-3. Where are the downloaded files saved?
+### 3. Where are the downloaded files saved?
 
 The final MP4 file is saved directly in your browser’s default Downloads folder.
 
-4. Do I need external software?
+### 4. Do I need external software?
 
 No. Everything works inside Google Chrome. No third-party apps or external servers are required.
 
-5. What is HLS streaming?
+### 5. What is HLS streaming?
 
 HLS (HTTP Live Streaming) is a video streaming method that delivers content in small segments. The extension collects and merges these segments into one MP4 file.
 
-6. Can it download DRM-protected videos?
+### 6. Can it download DRM-protected videos?
 
 No. DRM-protected platforms are not supported.
 
-7. Why must I keep the tab open?
+### 7. Why must I keep the tab open?
 
 The extension processes the stream in real time. Closing the tab will interrupt the download process.
 
-8. What happens if the internet disconnects?
+### 8. What happens if the internet disconnects?
 
 The downloader uses chunk-based downloading with automatic retry. Short interruptions are usually handled automatically.
 
-9. Is activation complicated?
+### 9. Is activation complicated?
 
 No. Simply enter your email and lifetime license key once to unlock full functionality.
 
-10. Is it safe to use?
+### 10. Is it safe to use?
 
 All stream detection and merging happen locally in your browser. For additional security, you may use a separate Chrome profile for extensions that require elevated permissions.
