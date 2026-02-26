@@ -1,7 +1,8 @@
 # 123movies Downloader - Unlimited Movies
 123Movies Downloader is a smart and purpose-built Chrome extension designed to detect and capture hidden HLS (HTTP Live Streaming) video streams from 123movies mirror sites and convert them into high-quality MP4 files. Instead of struggling with pop-ups, buffering interruptions, or unreliable online downloaders, this extension works directly inside your browser to capture the stream as it plays.
 
-##Links
+## Links
+
 🎁  [Get it here](https://go.best-bazar.com/123movies-downloader)
 
 ❓ Check FAQs here
@@ -10,7 +11,7 @@
 
 🆕 Request features here
 
-##Videos
+## Videos
 [Watch the video](https://youtu.be/Wf7OcI__v-k)
 
 Once a video begins streaming, the extension automatically identifies the source file in the background. It then downloads the content in stable, resilient chunks with automatic retry support, ensuring even full-length two-hour movies download smoothly without corruption or interruption. The final result preserves the same video quality you see online — no re-encoding, no quality loss.
@@ -43,7 +44,8 @@ All processing happens locally inside your browser — no external servers are u
 
 This tool is ideal for users who want a stable, clean, and reliable way to capture playable MP4 files directly from supported mirror streams.
 
-Frequently Asked Questions (FAQs)
+## Frequently Asked Questions (FAQs)
+
 1. How does 123Movies Downloader work?
 
 It detects the HLS video stream when playback begins, captures the stream segments, downloads them in chunks, and merges them into a single MP4 file directly in your browser.
