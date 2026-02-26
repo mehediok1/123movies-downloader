@@ -12,7 +12,7 @@
 🆕 Request features here
 
 ## Videos
-[Watch the video](https://youtu.be/Wf7OcI__v-k)
+[![Watch the video](https://youtu.be/Wf7OcI__v-k)0.jpg)](https://youtu.be/Wf7OcI__v-k)
 
 Once a video begins streaming, the extension automatically identifies the source file in the background. It then downloads the content in stable, resilient chunks with automatic retry support, ensuring even full-length two-hour movies download smoothly without corruption or interruption. The final result preserves the same video quality you see online — no re-encoding, no quality loss.
 
